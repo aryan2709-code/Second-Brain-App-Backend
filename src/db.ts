@@ -1,5 +1,5 @@
 import mongoose , {model , Mongoose, Schema } from "mongoose";
-mongoose.connect("mongodb+srv://bhardwaj7a:6SkLL7fILW1CGDQ7@cluster0.kyc2z.mongodb.net/brainly")
+mongoose.connect("mongodb+srv://youremail.mongodb.net/brainly")
 
 // User schema 
 const userSchema = new Schema({
