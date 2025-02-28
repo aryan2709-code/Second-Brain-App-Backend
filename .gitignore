@@ -1,0 +1,8 @@
+#Ignore dependencies
+node_modules/
+src/config.ts
+#Ignore the build output folder
+dist/
+
+
+
